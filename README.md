@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm Mariano, a Full Stack Developer. When I'm not studying
 
 ### 💡 Goals for 2022:
 - Finish my portfolio
-- Improve my english level to B2
+- Improve my english level to C1
 - Become skilled in JavaScript and React
 - Grow as a person
 
